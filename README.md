@@ -29,3 +29,10 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 ## Branch дээр хийсэн өөрчлөлт 
 
 Энэ хэсгийн feature-readme branch нэмсэн .
+
+
+### Миний мэдээлэл 
+
+Нэр : Дөлгөөн 
+Анги : 2  
+Мэргэжил: Пхи
