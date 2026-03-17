@@ -36,3 +36,4 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 Нэр : Дөлгөөн 
 Анги : 2  
 Мэргэжил: Пхи
+### Давталт
